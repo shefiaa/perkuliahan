@@ -1,1 +1,1 @@
-print (" HELLO WORD")
+print (" aku sayang kamu")
